@@ -9,7 +9,7 @@
     "bluebird": "3.2.1",
     "mocha": "3.0.2",
     "waterline": "balderdashy/waterline",
-    "waterline-utils": "^1.3.2"
+    "waterline-utils": "https://github.com/steventhanna/waterline-utils"
   },
   "keywords": [
     "orm",
